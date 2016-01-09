@@ -205,7 +205,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
+      "onservice",
     "inrealm",
     "ingroup",
     "inpm",
@@ -225,6 +225,9 @@ function create_config( )
     "wiki",
     "echo",
     "feedback",
+    "slmfa",
+    "slm",
+    "foshen",
     "antispam",
     "all"
     },
