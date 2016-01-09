@@ -15,7 +15,7 @@ return {
   description = "Robot About", 
   usage = "!ver: View Robot About",
   patterns = {
-    "^[!/]([Tt]eledark)"
+    "^[!/]([Ii]nfobot)"
   }, 
   run = run 
 }
