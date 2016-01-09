@@ -228,20 +228,20 @@ function create_config( )
     "antispam",
     "all"
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {76303145,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {90312082},--Realms Id
+    realm = {97509752},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     
     TeleDark Anti Spam Bot v2 
-  📢 Channel : @TeleDarkCh
-  👤 Admin : @AmirDark
+  📢 Channel : @team1984
+  👤 Admin : @mr_flat
   🙏 Special Thanks :
   @mehrab_wj
   @PokerFace_Dev
   
-  Checkout goo.gl/wQ6sGr
+  
 ]],
     help_text = [[
     
@@ -350,8 +350,6 @@ function create_config( )
 !wikifa
 جستجو در ویکی پدیا فارسی
 
-!teledark
-توضیحات ضد اسپم
 
 
 ⚠️ شما میتوانید از ! و / استفاده کنید. 
