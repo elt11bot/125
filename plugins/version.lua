@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
   return 'TeleDark Anti Spam Bot v2'.. [[ 
-  📢 Channel : @TeleDarkCh
+  📢 Channel : @team1984
   👤 Admin : @AmirDark
   🙏 Special Thanks :
   @mehrab_wj
