@@ -141,7 +141,7 @@ return {
     "^[!/]([Ss]tats)$",
     "^[!/]([Ss]tatslist)$",
     "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) (teledark)",-- Put everything you like :)
+    "^[!/]([Ss]tats) (infobot)",-- Put everything you like :)
     }, 
   run = run
 }
