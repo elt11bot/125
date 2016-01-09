@@ -234,7 +234,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     
-    TeleDark Anti Spam Bot v2 
+    1984 Anti Spam Bot v2.2.5 
   📢 Channel : @team1984
   👤 Admin : @mr_flat
   🙏 Special Thanks :
