@@ -8,7 +8,6 @@ function run(msg, matches)
   @mehrab_wj
   @PokerFace_Dev
   
-  Checkout goo.gl/wQ6sGr
 ]]
 end
 
