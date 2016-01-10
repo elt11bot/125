@@ -244,9 +244,8 @@ function create_config( )
   📢 Channel : @team1984
   👤 Admin : @mr_flat
   🙏 Special Thanks :
-  @mehrab_wj
-  @PokerFace_Dev
-  
+  @amirdark
+  @shahawwb
   
 ]],
     help_text = [[
