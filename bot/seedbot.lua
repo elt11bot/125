@@ -228,6 +228,9 @@ function create_config( )
     "slmfa",
     "slm",
     "foshen",
+    "linkpvv",
+    "lockstick",
+    "tagalll",
     "antispam",
     "all"
     },
@@ -352,6 +355,9 @@ function create_config( )
 
 !wikifa
 جستجو در ویکی پدیا فارسی
+
+!tagall
+باخبر کردن افراد گروه
 
 
 
