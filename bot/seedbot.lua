@@ -4,7 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '1.0'
+VERSION = '3.0'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -234,18 +234,18 @@ function create_config( )
     "antispam",
     "all"
     },
-    sudo_users = {76303145,0,tonumber(our_id)},--Sudo users
+    sudo_users = {53406884,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {97509752},--Realms Id
+    realm = {117065541},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     
     1984 Anti Spam Bot v2.2.5 
-  📢 Channel : @team1984
-  👤 Admin : @mr_flat
+  📢 Channel :elt_bot1
+  👤 sudo : @aryanes81
   🙏 Special Thanks :
-  @amirdark
-  @shahawwb
+  @sampga
+  @aryanes81
   
 ]],
     help_text = [[
